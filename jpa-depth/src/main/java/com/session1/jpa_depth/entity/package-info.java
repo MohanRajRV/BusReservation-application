@@ -1,1 +1,0 @@
-package com.session1.jpa_depth.entity;
